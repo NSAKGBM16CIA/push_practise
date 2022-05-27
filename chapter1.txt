@@ -1,5 +1,2 @@
-Ba bla bla boa bla bla 
 
-Nothing makes sense here the enemy came by....
-
-This is the beginning go version control journey
+This is the beginning git version control journey
